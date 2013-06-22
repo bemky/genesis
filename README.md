@@ -51,7 +51,7 @@ After Github
 - TM Bundles
 
 ### Profile
-'''
+```
 alias spire="cd ~/code/spire"
 alias profile="mate ~/.profile"
 alias mls="cd ~/code/mls"
@@ -60,4 +60,4 @@ eval "$(hub alias -s)"
 export PATH="/usr/local/bin:/usr/local/opt/ruby/bin:/Developer/usr/bin:/usr/local/sbin:/usr/local/mysql/bin:~/bin:$PATH"
 ### Added by the Heroku Toolbelt
 export PATH="/usr/local/heroku/bin:$PATH"
-'''
+```
