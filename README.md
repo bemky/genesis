@@ -38,14 +38,7 @@ In sequential order with breaks for dependencies
 - [Pocket](http://getpocket.com/safari/)
 
 ===
-After Dropbox
-### Dropbox Apps
-- Font Explorer Setup (Sync)
-- Cyberduck (Sync)
-- 1Password Setup
-
-===
-After Xcode (sequentially)
+### After Xcode (sequentially)
 - [Homebrew](http://mxcl.github.io/homebrew/)
 - Github ```brew install git```
 - [Setup Git](https://help.github.com/articles/set-up-git)
@@ -56,7 +49,7 @@ After Xcode (sequentially)
 - Imagemagik ```brew install imagemagick```
 
 ===
-After Github
+### Repos
 - [Spire](https://github.com/42floors/spire)
 - [MLS](https://github.com/42floors/mls)
 - [TM Bundles](https://github.com/malomalo/tmbundles)
@@ -104,3 +97,8 @@ export PATH="/usr/local/heroku/bin:$PATH"
 	unstage = reset HEAD
     cp = cherry-pick
 ```
+---
+### After Dropbox
+- Font Explorer Setup (Sync)
+- Cyberduck (Sync)
+- 1Password Setup
