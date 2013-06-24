@@ -72,3 +72,35 @@ export PATH="/usr/local/bin:/usr/local/opt/ruby/bin:/Developer/usr/bin:/usr/loca
 ### Added by the Heroku Toolbelt
 export PATH="/usr/local/heroku/bin:$PATH"
 ```
+
+### Git Config
+```
+[user]
+  name = Ben Ehmke
+	email = benehmke@gmail.com
+[credential]
+	helper = osxkeychain
+[color]
+	ui = true
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = auto
+[diff]
+	tool = opendiff
+[merge]
+	tool = opendiff
+	summary = true
+[core]
+	editor = mate -w
+	excludesfile = ~/.gitignore
+[push]
+	default = simple
+[alias]
+	st = status
+	com = commit
+	br = branch
+	co = checkout
+	unstage = reset HEAD
+    cp = cherry-pick
+```
