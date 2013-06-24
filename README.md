@@ -5,28 +5,32 @@ genesis
 In sequential order with breaks for dependencies
 
 ### App Store
-- Alfred
 - Cloud
 - Color Snapper
 - Sparrow
+- LiveReload
+- Xcode
+- MockSMTP
+- Pages
+- Numbers
+- Keynote
+- Quick Res
 
 ### Downloads
+- [Dropbox](http://dropbox.com)
+- [Alfred](http://www.alfredapp.com)
 - Adobe Suite
 - 1Password
-- Quick Res
 - Spectacle
-- Dropbox
 - Cyberduck
 - Chrome
 - Hipchat
 - Instashare
-- LiveReload
-- Mock SMTP
 - Skype
 - Spotify
 
-### System
-- Xcode
+### Xcode
+- Downloads > Command Line Tools
 
 ===
 After Dropbox
