@@ -29,6 +29,7 @@ In sequential order with breaks for dependencies
 - [Spotify](https://www.spotify.com/us/download/mac/)
 - [QuickRes](http://www.quickresapp.com)
 - [TextMate](http://macromates.com/download)
+- [XtraFinder](http://www.trankynam.com/xtrafinder/)
 
 ### Xcode
 - Downloads > Command Line Tools
@@ -42,6 +43,7 @@ In sequential order with breaks for dependencies
 - [Homebrew](http://mxcl.github.io/homebrew/)
 - Github ```brew install git```
 - [Setup Git](https://help.github.com/articles/set-up-git)
+- Hub ```brew install hub```
 - Ruby ```brew install ruby```
 - Rails ```gem install rails```
 - Postgis ```brew install postgis```
